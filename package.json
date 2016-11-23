@@ -1,0 +1,23 @@
+{
+  "name": "loopback-connector-mailjet",
+  "version": "0.0.2",
+  "description": "Loopback connector module which allow to send emails via Mailjet",
+  "main": "index.js",
+  "keywords": [
+    "loopback",
+    "mailjet",
+    "connector"
+  ],
+  "author": "Younes Benaomar <younes@interactive-object.com> (http://interactive-object.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "node-mailjet": "^3.0.6"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/InteractiveObject/loopback-connector-mailjet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InteractiveObject/loopback-connector-mailjet.git"
+  }
+}
