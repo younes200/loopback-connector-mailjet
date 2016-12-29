@@ -75,3 +75,5 @@ Basic option for templates
     .then(function(response){})
     .catch(function(err){});
 
+## License
+Copyright (c) 2016 [Interactive Object](https://www.interactive-object.com) . Licensed under the MIT license.
