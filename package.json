@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mailjet",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Loopback connector module which allow to send emails via Mailjet",
   "main": "index.js",
   "keywords": [
