@@ -5,7 +5,7 @@ Loopback connector module which allow to send emails via Mailjet.
 ## 1. Installation
 
 ````sh
-npm install loopback-connector-mailgun --save
+npm install loopback-connector-mailjet --save
 ````
 
 ## 2. Configuration
