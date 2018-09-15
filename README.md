@@ -32,8 +32,8 @@ model-config.json
 Additionaly you can set defaults
 
     {
-        "mailgun": {
-            "connector": "loopback-connector-mailgun",
+        "mailjet": {
+            "connector": "loopback-connector-mailjet",
             "apikey": "[your api key here]",
             "default": {
                 "fromEmail": "contact@interactive-object.com",
