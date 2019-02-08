@@ -29,7 +29,7 @@ model-config.json
         }
     }
 
-Additionaly you can set defaults
+Additionaly you can set defaults or connection options
 
     {
         "mailgun": {
@@ -38,7 +38,12 @@ Additionaly you can set defaults
             "default": {
                 "fromEmail": "contact@interactive-object.com",
                 "fromName": "Anna"
-            }
+            },
+            "options": {
+                "url": "api.mailjet.com", 
+                "version": "v3.1",
+                perform_api_call: false
+            },
             
         }
     }
