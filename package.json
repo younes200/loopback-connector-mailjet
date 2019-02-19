@@ -12,7 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.6.1",
-    "node-mailjet": "^3.0.6"
+    "node-mailjet": "^3.0.6",
+    "q": "^1.5.1"
   },
   "devDependencies": {},
   "homepage": "https://github.com/InteractiveObject/loopback-connector-mailjet",
